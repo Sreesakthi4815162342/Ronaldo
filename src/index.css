@@ -1,0 +1,29 @@
+.home{
+  height:calc(100vh - 56px);
+  background-image: url("https://wallpapercave.com/wp/wp8215806.jpg");
+  background-size:cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.about-img{
+  height: 500px;
+  border-radius: 5px;
+}
+.logos{
+  font-size: 60px;
+}
+.gallery-img{
+  height: 500px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+}
+#footer{
+  background-color: rgb(51,51,51);
+}
+.home h1{
+  font-size: 45px;
+}
